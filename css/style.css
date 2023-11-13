@@ -44,6 +44,19 @@ figure{
 ul{
     padding-left: 17px;
 }
+table{
+    box-sizing: border-box;
+    width: 100%;
+    border-collapse: collapse;
+    padding: 50px;
+}
+th{
+    text-align: left;
+    padding-right: 200px;
+    background-color: rgba(0, 119, 255, 0.705);
+    color: white;
+}
+
 h2{
     color: #808080;
 }
@@ -60,6 +73,9 @@ h2{
 
     
 }
+tr:nth-child(even) {
+    background-color: rgb(100, 210, 237);
+  }
 
 
     
