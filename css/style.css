@@ -28,7 +28,7 @@ address{
     font-size: 20px;
     font-style: normal;
     color: gray;
-    margin-bottom: 0;
+    margin-bottom: 20px;
 }
 #creator{
     color: #6495ed;
@@ -36,4 +36,11 @@ address{
 }
 figure{
     margin: 0;
+}
+.highlighted{
+    background-color: #ffff00;
+    font-style: normal;
+}
+ul{
+    padding-left: 16px;
 }
