@@ -44,6 +44,22 @@ figure{
 ul{
     padding-left: 17px;
 }
+h2{
+    color: #808080;
+}
+.container{
+    position: relative;
+
+}
+.description{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 25px;
+    color: white;
+
+    
+}
 
 
     
