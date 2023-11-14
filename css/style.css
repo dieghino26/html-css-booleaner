@@ -23,6 +23,9 @@ body{
 
 
 }
+#w-50{
+    width: 50%;
+}
 h1{
     font-size: 50px;
     margin-bottom: 0;
@@ -55,7 +58,6 @@ table{
 }
 th{
     text-align: left;
-    padding-right: 200px;
     background-color: rgba(0, 119, 255, 0.705);
     color: white;
 }
